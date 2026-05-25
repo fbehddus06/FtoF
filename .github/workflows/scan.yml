@@ -23,4 +23,4 @@ jobs:
           TOP_N: '40'
           MIN_SCORE: '50'
           MAX_ALERTS: '5'
-          EXCHANGE: 'bybit'
+          EXCHANGE: 'okx'
